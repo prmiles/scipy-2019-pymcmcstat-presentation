@@ -1,0 +1,3 @@
+pymcmcstat==1.8.0
+matplotlib>=3.0.0
+scipy>=0.9.0
